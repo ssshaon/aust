@@ -2,7 +2,7 @@
 *
 *  # Sliders
 *
-*  Specific JS code additions for components_sliders.html page
+*  Specific JS code additions for components_sliders.blade.php page
 *
 *  Version: 1.0
 *  Latest update: Aug 1, 2015

@@ -41,7 +41,7 @@
         <h1 style="margin-left: 400px">Ahsanullah University of Science And Technology (AUST)</h1>
         <h4 style="margin-left: 550px">141/142,Love Road,Tejgaon,Dhaka</h4>
         <h4 style="margin-left: 600px" y>Established: 1995</h4>
-        <img src="/assets/images/logo_aust.png" />
+        <img src="/assets/images/logo_aust.png" style="margin-left: 575px" width="200" height="200" />
     </div>
 
 

@@ -41,7 +41,8 @@
         <h1 style="margin-left: 400px">Ahsanullah University of Science And Technology (AUST)</h1>
         <h4 style="margin-left: 550px">141/142,Love Road,Tejgaon,Dhaka</h4>
         <h4 style="margin-left: 600px" y>Established: 1995</h4>
-        <img src="/assets/images/logo_aust.png" />
+        <img src="/assets/images/logo_aust.png" style="margin-left: 575px" width="200" height="200" />
+
     </div>
 
 
@@ -68,8 +69,16 @@
                             <li><a href="/"><i class="icon-arrow-down-left2"></i> <span>Home Page</span></a>
                             </li>
 
-                            <li><a href="/academicinformations.blade.php"><i class="icon-home"></i> <span>Academic Informations</span></a></li>
-
+                            <li><a href="/officialinformations.blade.php"><i class="icon-office"></i> <span>Official Informations</span></a>
+                                <ul>
+                                    <li><a href="/Speeches/chanchellor.blade.php"><i class="icon-home2"></i>CSE</a></li>
+                                    <li><a href="Speeches/vicechanchellor.blade.php"><i class="icon-home2"></i>EEE</a></li>
+                                    <li><a href="Speeches/proctor.blade.php"><i class="icon-home2"></i>MPE</a></li>
+                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>Textile</a></li>
+                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>Civil</a></li>
+                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>BBA</a></li>
+                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>Masters</a></li>
+                                </ul>
                         </ul>
                     </div>
                 </div>
@@ -79,7 +88,7 @@
             <div class="page-header">
                 <div class="page-header-content">
                     <div class="page-title">
-                        <h4><i class="center arrow"></i> <span class="text-semibold">Academic Information </span></h4>
+                        <h4><i class="center arrow"></i> <span class="text-semibold">Official Information </span></h4>
                     </div>
                 </div>
             </div>
