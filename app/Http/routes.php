@@ -47,9 +47,6 @@ Route::get('/officialinformations.blade.php', function () {
     return view('officialinformations');
 });
 
-Route::get('/components_sliders.blade.php', function () {
-    return view('components_sliders');
-});
 
 Route::get('/Departments/departments.blade.php', function () {
     return view('Departments.departments');
@@ -61,6 +58,10 @@ Route::get('/Departments/cse.blade.php', function () {
 
 Route::get('/Departments/eee.blade.php', function () {
     return view('Departments.eee');
+});
+
+Route::get('/Departments/architecture.blade.php', function () {
+    return view('Departments.architecture');
 });
 
 Route::get('/Departments/textile.blade.php', function () {
@@ -83,3 +84,15 @@ Route::get('/Departments/bba.blade.php', function () {
     return view('Departments.bba');
 });
 
+Route::get('/Login/stlogin.blade.php', function () {
+    return view('Login.stlogin');
+});
+
+Route::get('/Login/thlogin.blade.php', function () {
+    return view('Login.thlogin');
+});
+
+
+Route::auth();
+
+Route::get('/home', 'HomeController@index');

@@ -71,13 +71,19 @@
 
                             <li><a href="/officialinformations.blade.php"><i class="icon-office"></i> <span>Official Informations</span></a>
                                 <ul>
-                                    <li><a href="/Speeches/chanchellor.blade.php"><i class="icon-home2"></i>CSE</a></li>
-                                    <li><a href="Speeches/vicechanchellor.blade.php"><i class="icon-home2"></i>EEE</a></li>
-                                    <li><a href="Speeches/proctor.blade.php"><i class="icon-home2"></i>MPE</a></li>
-                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>Textile</a></li>
-                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>Civil</a></li>
-                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>BBA</a></li>
-                                    <li><a href="Speeches/chairman.blade.php"><i class="icon-home2"></i>Masters</a></li>
+                                    <li><a href="/Speeches/chanchellor.blade.php">About Admission</a></li>
+                                    <li><a href="Speeches/vicechanchellor.blade.php">About Semester Fee</a></li>
+                                    <li><a href="Speeches/proctor.blade.php">About Vacation</a></li>
+                                    <li><a href="Speeches/chairman.blade.php">About Convocation</a></li>
+                                    <li><a href="Speeches/chairman.blade.php">About Students' Info</a></li>
+                                    <li><a href="Speeches/chairman.blade.php">About Teachers' Info</a></li>
+                                    <li><a href="Speeches/chairman.blade.php">About Bank</a></li>
+                                    <li><a href="Speeches/chairman.blade.php">About Orientation & Farewell</a></li>
+                                    <li><a href="Speeches/chairman.blade.php">About Result Publication & Certificate</a></li>
+                                    <li><a href="Speeches/chairman.blade.php">About Examinations</a></li>
+                                    <li><a href="Login/stlogin.blade.php">Students' Register/Login</a></li>
+                                    <li><a href="Login/thlogin.blade.php">Teachers' Register/Login</a></li>
+
                                 </ul>
                         </ul>
                     </div>
@@ -88,14 +94,19 @@
             <div class="page-header">
                 <div class="page-header-content">
                     <div class="page-title">
-                        <h4><i class="center arrow"></i> <span class="text-semibold">Official Information </span></h4>
+                        <h4><i class="center arrow"></i> <span class="text-semibold">Official Information</span></h4>
                     </div>
-                </div>
+                 </div>
             </div>
-            <h5> </h5>
+            <li><h5>Duration of office time:</h5></li>
+            <li><h5>Start At:</h5></li>
+            <li><h5>Close At:</h5></li>
+            <li><h5>Location:</h5></li>
+            <li><h5>Total Employee:</h5></li>
         </div>
     </div>
 </div>
 </div>
 </body>
+<li style="margin-left: 500px">CopyRight @ 2018,Shinorina Shahrin Shaon</li>
 </html>

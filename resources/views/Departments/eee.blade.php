@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
 
-    <title>Welcome To Ahsanullah University of Science And Technology</title>
+    <title>Department Of EEE</title>
 
     <!-- Global stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
-    <link href="assets/css/icons/icomoon/styles.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/core.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/components.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/colors.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/icons/icomoon/styles.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/core.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/components.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/colors.min.css" rel="stylesheet" type="text/css">
     <!-- /global stylesheets -->
 
     <!-- Core JS files -->
@@ -41,7 +41,8 @@
         <h1 style="margin-left: 400px">Ahsanullah University of Science And Technology (AUST)</h1>
         <h4 style="margin-left: 550px">141/142,Love Road,Tejgaon,Dhaka</h4>
         <h4 style="margin-left: 600px" y>Established: 1995</h4>
-        <img src="/assets/images/logo_aust.png" />
+        <img src="/assets/images/logo_aust.png" style="margin-left: 575px" width="200" height="200" />
+
     </div>
 
 
@@ -65,30 +66,21 @@
                         <ul class="navigation navigation-main navigation-accordion">
 
                             <!-- Main -->
-                            <li><a href="speeches.blade.php"><i class="icon-people"></i> <span>Speeches</span></a>
-                                <ul>
-                                    <li><a href="/Speeches/chanchellor.blade.php"><i class="icon-person"></i>Chanchellor</a></li>
-                                    <li><a href="/Speeches/vicechanchellor.blade.php"><i class="icon-person"></i>Vice Chancellor</a></li>
-                                    <li><a href="/Speeches/proctor.blade.php"><i class="icon-person"></i>Proctor</a></li>
-                                    <li><a href="/Speeches/chairman.blade.php"><i class="icon-person"></i>Chairman</a></li>
-                                </ul>
+                            <li><a href="/"><i class="icon-arrow-down-left2"></i> <span>Home Page</span></a>
                             </li>
 
-                            <!-- Department -->
-
-                            <li> <a href="departments.blade.php"><i class="icon-cube"></i> <span>Departments</span></a>
+                            <li> <a href="#"><i class="icon-cube"></i> <span>Departments</span></a>
                                 <ul>
                                     <li><a href="/Departments/cse.blade.php"><i class="icon-home2"></i>CSE</a></li>
-                                    <li><a href="eee.blade.php"><i class="icon-home2"></i>EEE</a></li>
+                                    <li><a href="/Departments/eee.blade.php"><i class="icon-home2"></i>EEE</a></li>
                                     <li><a href="/Departments/mpe.blade.php"><i class="icon-home2"></i>MPE</a></li>
                                     <li><a href="/Departments/textile.blade.php"><i class="icon-home2"></i>Textile</a></li>
                                     <li><a href="/Departments/civil.blade.php"><i class="icon-home2"></i>Civil</a></li>
+                                    <li><a href="/Departments/architecture.blade.php"><i class="icon-home2"></i>Architecture</a></li>
                                     <li><a href="/Departments/bba.blade.php"><i class="icon-home2"></i>BBA</a></li>
                                     <li><a href="/Departments/masters.blade.php"><i class="icon-home2"></i>Masters</a></li>
                                 </ul>
                             </li>
-                            <li><a href="/officialinformations.blade.php"><i class="icon-office"></i> <span>Official Informations</span></a>
-                            <li><a href="/academicinformations.blade.php"><i class="icon-home"></i> <span>Academic Informations</span></a>
                         </ul>
                     </div>
                 </div>
@@ -98,44 +90,11 @@
             <div class="page-header">
                 <div class="page-header-content">
                     <div class="page-title">
-                        <h4><i class="center arrow"></i> <span class="text-semibold">About AUST </span></h4>
+                        <h4><i class="center arrow"></i> <span class="text-semibold">Department of Electrical & Electronics Engineering</span></h4>
                     </div>
                 </div>
             </div>
-            <h5>Here we want to say something about our university of science and technology....
-                ...................................
-                ......................................
-                ........................................................
-                ..................................................................
-                .............................................................................
-                ...........................................
-
-                aust neye ami kisu jani na...
-
-                aust e kan admit hoicelam ami jani na...
-                ami kono kaj pari na...
-                ami ekta akkaimma....
-                amare deye kisu hobe na....
-                ami drop down list banate jani na....
-                amk ajax valo moto sikhte hobe....
-                what can i do know....
-                bah english bola sikhchi....
-                aust er logo eto boro kan....
-                logo kan edit korte pari na....
-                some one please kill me...
-
-
-
-
-
-                baki gula shoumik,amr vai,rashik likhe deo.. :P
-                ...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
-                ...................................................................................
-                ........................................................................................................................
-                ..............................................................................................................................
-                ....................................................................................................
-                .......................................................................................................................
-                ......................................................................................................</h5>
+            <h5> </h5>
         </div>
     </div>
 </div>

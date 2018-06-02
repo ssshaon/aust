@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
 
-    <title>Official Information of AUST</title>
+    <title>Chairman's Speech</title>
 
     <!-- Global stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
-    <link href="assets/css/icons/icomoon/styles.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/core.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/components.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/minified/colors.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/icons/icomoon/styles.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/core.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/components.min.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/minified/colors.min.css" rel="stylesheet" type="text/css">
     <!-- /global stylesheets -->
 
     <!-- Core JS files -->
@@ -41,7 +41,8 @@
         <h1 style="margin-left: 400px">Ahsanullah University of Science And Technology (AUST)</h1>
         <h4 style="margin-left: 550px">141/142,Love Road,Tejgaon,Dhaka</h4>
         <h4 style="margin-left: 600px" y>Established: 1995</h4>
-        <img src="/assets/images/logo_aust.png" />
+        <img src="/assets/images/logo_aust.png" style="margin-left: 575px" width="200" height="200" />
+
     </div>
 
 
@@ -68,8 +69,15 @@
                             <li><a href="/"><i class="icon-arrow-down-left2"></i> <span>Home Page</span></a>
                             </li>
 
-                            <li><a href="/academicinformations.blade.php"><i class="icon-home"></i> <span>Academic Informations</span></a></li>
-
+                            <li><a href="#"><i class="icon-people"></i> <span>Speeches</span></a>
+                                <ul>
+                                    <li><a href="/Speeches/chanchellor.blade.php"><i class="icon-person"></i>Chanchellor</a></li>
+                                    <li><a href="/Speeches/vicechanchellor.blade.php"><i class="icon-person"></i>Vice Chancellor</a></li>
+                                    <li><a href="/Speeches/proctor.blade.php"><i class="icon-person"></i>Proctor</a></li>
+                                    <li><a href="/Speeches/chairman.blade.php"><i class="icon-person"></i>Chairman</a></li>
+                                    <li><a href="/Speeches/din.blade.php"><i class="icon-person"></i>Din</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -79,7 +87,7 @@
             <div class="page-header">
                 <div class="page-header-content">
                     <div class="page-title">
-                        <h4><i class="center arrow"></i> <span class="text-semibold">Academic Information </span></h4>
+                        <h4><i class="center arrow"></i> <span class="text-semibold">Speech</span></h4>
                     </div>
                 </div>
             </div>

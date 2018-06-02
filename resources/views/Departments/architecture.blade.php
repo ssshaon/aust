@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-    <title>Department Of MPE Engineering</title>
+    <title>Department Of Architecture</title>
 
     <!-- Global stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -90,7 +90,7 @@
             <div class="page-header">
                 <div class="page-header-content">
                     <div class="page-title">
-                        <h4><i class="center arrow"></i> <span class="text-semibold">Department of Mechanical & IP Engineering</span></h4>
+                        <h4><i class="center arrow"></i> <span class="text-semibold">Department of Architecture</span></h4>
                     </div>
                 </div>
             </div>

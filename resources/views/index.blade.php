@@ -83,12 +83,13 @@
                             <li> <a href="#"><i class="icon-cube"></i> <span>Departments</span></a>
                                 <ul>
                                     <li><a href="/Departments/cse.blade.php"><i class="icon-home2"></i>CSE</a></li>
-                                    <li><a href="Departments/eee.blade.php"><i class="icon-home2"></i>EEE</a></li>
+                                    <li><a href="/Departments/eee.blade.php"><i class="icon-home2"></i>EEE</a></li>
                                     <li><a href="/Departments/mpe.blade.php"><i class="icon-home2"></i>MPE</a></li>
                                     <li><a href="/Departments/textile.blade.php"><i class="icon-home2"></i>Textile</a></li>
                                     <li><a href="/Departments/civil.blade.php"><i class="icon-home2"></i>Civil</a></li>
                                     <li><a href="/Departments/bba.blade.php"><i class="icon-home2"></i>BBA</a></li>
                                     <li><a href="/Departments/masters.blade.php"><i class="icon-home2"></i>Masters</a></li>
+                                    <li><a href="student.blade.php"><i class="icon-home2"></i>Student</a></li>
                                 </ul>
                             </li>
                             <li><a href="/officialinformations.blade.php"><i class="icon-office"></i> <span>Official Informations</span></a>

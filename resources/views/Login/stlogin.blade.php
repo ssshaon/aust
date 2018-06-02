@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-    <title>Department Of MPE Engineering</title>
+    <title>Official Information of AUST</title>
 
     <!-- Global stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -69,35 +69,28 @@
                             <li><a href="/"><i class="icon-arrow-down-left2"></i> <span>Home Page</span></a>
                             </li>
 
-                            <li> <a href="#"><i class="icon-cube"></i> <span>Departments</span></a>
-                                <ul>
-                                    <li><a href="/Departments/cse.blade.php"><i class="icon-home2"></i>CSE</a></li>
-                                    <li><a href="/Departments/eee.blade.php"><i class="icon-home2"></i>EEE</a></li>
-                                    <li><a href="/Departments/mpe.blade.php"><i class="icon-home2"></i>MPE</a></li>
-                                    <li><a href="/Departments/textile.blade.php"><i class="icon-home2"></i>Textile</a></li>
-                                    <li><a href="/Departments/civil.blade.php"><i class="icon-home2"></i>Civil</a></li>
-                                    <li><a href="/Departments/architecture.blade.php"><i class="icon-home2"></i>Architecture</a></li>
-                                    <li><a href="/Departments/bba.blade.php"><i class="icon-home2"></i>BBA</a></li>
-                                    <li><a href="/Departments/masters.blade.php"><i class="icon-home2"></i>Masters</a></li>
-                                </ul>
-                            </li>
                         </ul>
-                    </div>
                 </div>
             </div>
         </div>
+    </div>
         <div class="content-wrapper">
             <div class="page-header">
                 <div class="page-header-content">
                     <div class="page-title">
-                        <h4><i class="center arrow"></i> <span class="text-semibold">Department of Mechanical & IP Engineering</span></h4>
+                        <h4><i class="center arrow"></i> <span class="text-semibold">Student Login/Registration</span></h4>
+
                     </div>
                 </div>
             </div>
-            <h5> </h5>
+            <li><h5>Name : <input type="text" name="name"></h5></li>
+            <li><h5>ID : <input type="text" name="id"></h5></li>
+            <li><h5>Code : <input type="text" name="id"></h5></li>
+            <li style="margin-left: 200px"><input type="button" name="login" value="Login"></li>
+
         </div>
-    </div>
 </div>
 </div>
 </body>
+<li style="margin-left: 500px">CopyRight @ 2018,Shinorina Shahrin Shaon</li>
 </html>
